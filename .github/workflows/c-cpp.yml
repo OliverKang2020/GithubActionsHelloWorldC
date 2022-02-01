@@ -16,4 +16,4 @@ jobs:
     - name: make
       run: |
         gcc hello.c
-        hello
+        ./hello
