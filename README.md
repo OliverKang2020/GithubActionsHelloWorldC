@@ -1,1 +1,1 @@
-# GithubActionHelloWorldC
+# GithubActionsHelloWorldC
