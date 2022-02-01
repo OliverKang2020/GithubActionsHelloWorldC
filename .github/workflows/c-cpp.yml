@@ -15,5 +15,6 @@ jobs:
     - uses: actions/checkout@v2
     - name: make
       run: |
-        gcc hello.c
+        gcc hello.c -o hello
+        ls -al
         ./hello
